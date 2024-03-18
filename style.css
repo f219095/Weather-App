@@ -134,6 +134,7 @@ body {
 .weather-details .rain {
     display: flex;
     align-items: center;
+    width: 33%; /* Divide equally */
 }
 
 .weather-details .humidity {
@@ -141,25 +142,25 @@ body {
 }
 
 .weather-details .wind {
-    justify-content: flex-end;
+    justify-content: center; /* Adjusted */
 }
 
 .weather-details .rain {
-    justify-content: center;
+    justify-content: flex-end; /* Adjusted */
 }
 
 .weather-details i {
-    font-size: 56px;
+    font-size: 36px; /* Adjusted */
     margin-right: 10px;
 }
 
 .weather-details span {
-    font-size: 22px;
+    font-size: 18px; /* Adjusted */
     font-weight: 500;
 }
 
 .weather-details p {
-    font-size: 14px;
+    font-size: 12px; /* Adjusted */
     font-weight: 500;
 }
 
