@@ -23,7 +23,7 @@ This is a simple weather web application built using HTML, CSS, and JavaScript. 
 3. The app will display the current temperature, weather description, humidity, wind speed, and chance of rain for the specified location.
 
 #### Screenshots:
-![Weather Web App Screenshot](![image](https://github.com/f219095/Weather_application/assets/92564229/2b5041ce-ce65-4310-9d9a-08f55a80fc82)
-![image](https://github.com/f219095/Weather_application/assets/92564229/17f16aa9-80a2-4481-8bc2-704c49d87ea5)
+Weather Web App Screenshot (https://github.com/f219095/Weather_application/assets/92564229/2b5041ce-ce65-4310-9d9a-08f55a80fc82)
+(https://github.com/f219095/Weather_application/assets/92564229/17f16aa9-80a2-4481-8bc2-704c49d87ea5)
 
 )
